@@ -17,3 +17,17 @@
 	color: white;
 	font-style: underline;
 }
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 14px;
+}
